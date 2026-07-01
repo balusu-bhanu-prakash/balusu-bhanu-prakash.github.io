@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://balusu-bhanu-prakash.github.io/sitemap.xml
